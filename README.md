@@ -17,7 +17,13 @@ Here are the technologies I'm proficient in:
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-<br/>
+## My Projects
+
+I'm always working on new and exciting projects. Check out some of my latest work:
+
+- [HooBank](https://wa-hoobank.netlify.app/): HooBank is a strategic entry point designed to capture the attention of visitors and convert them into leads or customers. With a clean and attractive design, this landing page offers an optimized and engaging user experience.
+- [The Weather](https://wa-theweather.netlify.app/): The weather application I developed is a responsive and user-friendly solution that allows users to access accurate and real-time weather information.
+
 
 ## Connect with Me
 
