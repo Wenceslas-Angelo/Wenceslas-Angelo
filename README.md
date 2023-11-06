@@ -1,5 +1,14 @@
 
-<h2> Hey there!👋 I'm Wenceslas Angelo.</h2>
+# Hello there! 👋 I'm Wenceslas Angelo
+
+## About Me
+
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on building full-stack web applications and a deep love for clean and elegant code. 
+
+I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack, and I'm always excited to explore new technologies and tools to create innovative solutions.
+
+My journey in the world of coding has been a thrilling adventure, and I'm constantly working on personal and open-source projects to refine my skills and share my knowledge with the community.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
