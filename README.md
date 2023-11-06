@@ -22,9 +22,10 @@ My journey in the world of coding has been a thrilling adventure, and I'm consta
 
 ## Connect with Me
 
-📧 &nbsp; Feel free to reach out to me via email at [wenceslasangelo@gmail.com](mailto:wenceslasangelo@gmail.com).
+- Email: [wenceslasangelo@gmail.com](mailto:wenceslasangelo@gmail.com)
+- Portfolio: [Your Portfolio](https://wenceslas-angelo.netlify.app/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/angelo-wenceslas)
 
-🌟 &nbsp; Check out my GitHub profile: [Wenceslas Angelo](https://github.com/Wenceslas-Angelo)
 
 ## Contributing
 
