@@ -10,20 +10,19 @@ I specialize in the MERN (MongoDB, Express.js, React, Node.js) stack, and I'm al
 My journey in the world of coding has been a thrilling adventure, and I'm constantly working on personal and open-source projects to refine my skills and share my knowledge with the community.
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-💻 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb).
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+## Tech Stack
+Here are the technologies I'm proficient in:
+  - ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb).
+  - ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 <br/>
 
 ## Connect with Me
 
 - Email: [wenceslasangelo@gmail.com](mailto:wenceslasangelo@gmail.com)
-- Portfolio: [https://wenceslas-angelo.netlify.app/)](https://wenceslas-angelo.netlify.app/)
+- Portfolio: [https://wenceslas-angelo.netlify.app/)](https://wenceslas-angelo.netlify.app)
 - LinkedIn: [https://www.linkedin.com/in/angelo-wenceslas](https://www.linkedin.com/in/angelo-wenceslas)
 
 
