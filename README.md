@@ -11,9 +11,19 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+## Connect with Me
 
-<a href="mailto:wenceslasangelo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/wenceslasangelo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+📧 &nbsp; Feel free to reach out to me via email at [wenceslasangelo@gmail.com](mailto:wenceslasangelo@gmail.com).
 
-⭐️ From [Wenceslas Angelo](https://github.com/Wenceslas-Angelo)
+🌟 &nbsp; Check out my GitHub profile: [Wenceslas Angelo](https://github.com/Wenceslas-Angelo)
+
+## Contributing
+
+If you want to contribute to any of my projects or have questions, don't hesitate to get in touch. I'm open to collaboration and always eager to learn from others.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). You're welcome to use it and customize it for your own needs.
+
+
 
