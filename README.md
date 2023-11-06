@@ -23,8 +23,8 @@ My journey in the world of coding has been a thrilling adventure, and I'm consta
 ## Connect with Me
 
 - Email: [wenceslasangelo@gmail.com](mailto:wenceslasangelo@gmail.com)
-- Portfolio: [Your Portfolio](https://wenceslas-angelo.netlify.app/)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/angelo-wenceslas)
+- Portfolio: [https://wenceslas-angelo.netlify.app/)](https://wenceslas-angelo.netlify.app/)
+- LinkedIn: [https://www.linkedin.com/in/angelo-wenceslas](https://www.linkedin.com/in/angelo-wenceslas)
 
 
 ## Contributing
