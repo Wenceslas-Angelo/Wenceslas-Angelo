@@ -1,5 +1,5 @@
 
-# Hello there! 👋 I'm Wenceslas Angelo
+# Hello there! I'm Wenceslas Angelo
 
 ## About Me
 
