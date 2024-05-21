@@ -12,11 +12,11 @@ My journey in the world of coding has been a thrilling adventure, and I'm consta
 
 ## Tech Stack
 Here are the technologies I'm proficient in:
-  - ![JavaScript](https://img.shields.io/badge/logo-javascript-333333?style=flat&logo=javascript).
-  - ![TypeScript](https://img.shields.io/badge/-typescript-333333?style=flat&logo=typescript).
-  - ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python).
+  - ![JavaScript](https://img.shields.io/badge/Javascript-333333?style=flat&logo=javascript).
+  - ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript).
+  - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python).
   - ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb).
-  - ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express.js)
+  - ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
   - ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   - ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
